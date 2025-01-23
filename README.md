@@ -13,3 +13,5 @@ sum=sum+i;
 system.out.println ("The sum of 100 add Numbers are:”+sum);
 }
 }
+Output 
+The sum of odd number is 2500
